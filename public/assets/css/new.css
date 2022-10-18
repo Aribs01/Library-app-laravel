@@ -1,0 +1,47 @@
+.book-list-page{
+    height: 86vh;
+    padding: 10px;
+    width: 77%;
+}
+.card{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+table {
+    text-align: left;
+    width:100%;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 1px solid #708da9;
+    border-right: 1px solid #708da9;
+}
+th{
+    font-size: 15px;
+    line-height: 40px;
+    border: 1px solid #708da9;
+    text-align: center;
+}
+td{
+    padding: 5px;
+    border-bottom: 1px solid #708da9;
+    border-left: 1px solid #708da9;
+}
+.new-button{
+    background-color: #404690;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.small-button{
+    background-color: #404690;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
